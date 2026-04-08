@@ -1,0 +1,5 @@
+{
+  "name": "3D Geological Modeler",
+  "description": "A web-based 3D geological modeling tool to visualize rock layers with dip, strike, and custom properties.",
+  "requestFramePermissions": []
+}
